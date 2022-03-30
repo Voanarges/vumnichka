@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.e6bc6234.chunk.css",
+    "main.js": "/build/static/js/main.136bd683.chunk.js",
+    "main.js.map": "/build/static/js/main.136bd683.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.e4c7724e.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.e4c7724e.js.map",
+    "static/js/2.d58d8aec.chunk.js": "/build/static/js/2.d58d8aec.chunk.js",
+    "static/js/2.d58d8aec.chunk.js.map": "/build/static/js/2.d58d8aec.chunk.js.map",
+    "index.html": "/build/index.html",
+    "static/css/main.e6bc6234.chunk.css.map": "/build/static/css/main.e6bc6234.chunk.css.map",
+    "static/js/2.d58d8aec.chunk.js.LICENSE.txt": "/build/static/js/2.d58d8aec.chunk.js.LICENSE.txt",
+    "static/media/alphavit.eb773100.jpg": "/build/static/media/alphavit.eb773100.jpg",
+    "static/media/author.3b54006f.jpg": "/build/static/media/author.3b54006f.jpg",
+    "static/media/curse-one.51383f86.jpg": "/build/static/media/curse-one.51383f86.jpg",
+    "static/media/speech.e27b4783.jpg": "/build/static/media/speech.e27b4783.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c7724e.js",
+    "static/js/2.d58d8aec.chunk.js",
+    "static/css/main.e6bc6234.chunk.css",
+    "static/js/main.136bd683.chunk.js"
+  ]
+}
