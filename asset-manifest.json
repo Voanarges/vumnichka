@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.e6bc6234.chunk.css",
-    "main.js": "/build/static/js/main.136bd683.chunk.js",
-    "main.js.map": "/build/static/js/main.136bd683.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.e4c7724e.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.e4c7724e.js.map",
-    "static/js/2.d58d8aec.chunk.js": "/build/static/js/2.d58d8aec.chunk.js",
-    "static/js/2.d58d8aec.chunk.js.map": "/build/static/js/2.d58d8aec.chunk.js.map",
-    "index.html": "/build/index.html",
-    "static/css/main.e6bc6234.chunk.css.map": "/build/static/css/main.e6bc6234.chunk.css.map",
-    "static/js/2.d58d8aec.chunk.js.LICENSE.txt": "/build/static/js/2.d58d8aec.chunk.js.LICENSE.txt",
-    "static/media/alphavit.eb773100.jpg": "/build/static/media/alphavit.eb773100.jpg",
-    "static/media/author.3b54006f.jpg": "/build/static/media/author.3b54006f.jpg",
-    "static/media/curse-one.51383f86.jpg": "/build/static/media/curse-one.51383f86.jpg",
-    "static/media/speech.e27b4783.jpg": "/build/static/media/speech.e27b4783.jpg"
+    "main.css": "/vumnichka/static/css/main.f9b4c7b5.chunk.css",
+    "main.js": "/vumnichka/static/js/main.edb562f2.chunk.js",
+    "main.js.map": "/vumnichka/static/js/main.edb562f2.chunk.js.map",
+    "runtime-main.js": "/vumnichka/static/js/runtime-main.8e3b90a2.js",
+    "runtime-main.js.map": "/vumnichka/static/js/runtime-main.8e3b90a2.js.map",
+    "static/js/2.2ce386d0.chunk.js": "/vumnichka/static/js/2.2ce386d0.chunk.js",
+    "static/js/2.2ce386d0.chunk.js.map": "/vumnichka/static/js/2.2ce386d0.chunk.js.map",
+    "index.html": "/vumnichka/index.html",
+    "static/css/main.f9b4c7b5.chunk.css.map": "/vumnichka/static/css/main.f9b4c7b5.chunk.css.map",
+    "static/js/2.2ce386d0.chunk.js.LICENSE.txt": "/vumnichka/static/js/2.2ce386d0.chunk.js.LICENSE.txt",
+    "static/media/author.3b54006f.jpg": "/vumnichka/static/media/author.3b54006f.jpg",
+    "static/media/contacts.dd69e3c4.jpg": "/vumnichka/static/media/contacts.dd69e3c4.jpg",
+    "static/media/curse-one.20affe51.jpg": "/vumnichka/static/media/curse-one.20affe51.jpg",
+    "static/media/error.42292aa1.gif": "/vumnichka/static/media/error.42292aa1.gif",
+    "static/media/finito.02e97b8c.png": "/vumnichka/static/media/finito.02e97b8c.png",
+    "static/media/idea.a0cbb406.jpg": "/vumnichka/static/media/idea.a0cbb406.jpg",
+    "static/media/logo_alphavit.78dbe890.jpg": "/vumnichka/static/media/logo_alphavit.78dbe890.jpg",
+    "static/media/speech_development.eb68876a.jpg": "/vumnichka/static/media/speech_development.eb68876a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c7724e.js",
-    "static/js/2.d58d8aec.chunk.js",
-    "static/css/main.e6bc6234.chunk.css",
-    "static/js/main.136bd683.chunk.js"
+    "static/js/runtime-main.8e3b90a2.js",
+    "static/js/2.2ce386d0.chunk.js",
+    "static/css/main.f9b4c7b5.chunk.css",
+    "static/js/main.edb562f2.chunk.js"
   ]
 }
